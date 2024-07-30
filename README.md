@@ -19,8 +19,8 @@ Ce projet est un générateur de cours automatique qui utilise l'IA pour créer 
 
 1. Clonez ce dépôt :
 ```bash
-git clone https://github.com/votre-nom/generateur-cours-automatique.git
-cd generateur-cours-automatique
+git clone https://github.com/MattJeanLouis/mon-make-cours.git
+cd mon-make-cours
 ```
 
 2. Installez les dépendances :
